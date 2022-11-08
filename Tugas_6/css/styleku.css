@@ -1,0 +1,13 @@
+body{
+    background-color: wheat;
+}
+.firstcharacter {
+    color: blue;
+    float: left;
+    font-family: Georgia;
+    font-size: 40px;
+    line-height: 1px;
+    padding-top: 3px;
+    padding-right: 6px;
+    padding-left: 3px;
+  }
