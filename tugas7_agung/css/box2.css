@@ -1,0 +1,40 @@
+div{
+    margin: 20px;
+    border: 1px solid black;
+}
+
+.hijau{
+    width: 1215px;
+    height: 100px;
+    background-color: greenyellow;
+}
+
+.kuning1{
+    background-color: yellow;
+    width: 225px;
+    height: 220px;
+}
+
+.kuning2{
+    background-color: yellow;
+    width: 225px;
+    height: 180px;
+}
+
+.orange{
+    background-color: orangered;
+    width: 925px;
+    height: 220px;
+    position: absolute;
+    top: 18.5%;
+    right: 7.5%;
+}
+
+.biru{
+    background-color: aqua;
+    width: 925px;
+    height: 190px;
+    position: absolute;
+    top: 55%;
+    right: 7.5%;
+}
