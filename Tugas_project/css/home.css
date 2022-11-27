@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(255, 178, 191)
+}
+.menu{
+    background-color: white ;
+    border-radius: 10px;
+    display: flex;
+}
+.bar{
+    display: flex;
+    text-align: center;
+}
+#logojm{
+    margin-right: 250px;
+    margin-left: 100px;
+}
+#fotokr{
+    float: left;
+    width: 45%;
+    margin-right: 110px;
+}
+.article{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#penjelasan{
+    margin-bottom: 150px;
+}
+#untung{
+    text-align: center;
+}
+#paket{
+    text-align: center;
+}
+.tablepaket{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 100px;
+}
+.div1 {
+    width: max-content;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-left: 350px;
+}
+.footer{
+    background-color: whitesmoke;
+}

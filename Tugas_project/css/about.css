@@ -1,0 +1,16 @@
+body{
+    background-color: bisque
+}
+.menu{
+    background-color: beige ;
+    border-radius: 10px;
+    display: flex;
+}
+.bar{
+    display: flex;
+    text-align: center;
+}
+#logojm{
+    margin-right: 250px;
+    margin-left: 100px;
+}
